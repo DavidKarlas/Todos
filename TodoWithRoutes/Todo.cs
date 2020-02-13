@@ -1,5 +1,8 @@
 ﻿namespace Todos
 {
+    /// <summary>
+    /// Todo item
+    /// </summary>
     public class Todo
     {
         public long Id { get; set; }
