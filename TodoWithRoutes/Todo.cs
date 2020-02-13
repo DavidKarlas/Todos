@@ -6,6 +6,9 @@
     public class Todo
     {
         public long Id { get; set; }
+        /// <summary>
+        /// 
+        /// </summary>
         public string Name { get; set; }
         /// <summary>
         /// Check if task is completed.
