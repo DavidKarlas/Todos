@@ -17,7 +17,7 @@ namespace TodoWithControllersAuthJWT
         public string Issuer { get; }
 
         public string Audience { get; }
-
+        //test 3
         public byte[] Key { get; }
 
         public TokenValidationParameters TokenValidationParameters => new TokenValidationParameters
